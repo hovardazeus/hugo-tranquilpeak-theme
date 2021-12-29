@@ -13,9 +13,9 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://example.org/"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+languageCode = "tr-tr"
+defaultContentLanguage = "tr-tr"
+title = "Doğal Taş Kolye"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -64,7 +64,7 @@ canonifyurls = true
 [[menu.main]]
   weight = 1
   identifier = "home"
-  name = "Home"
+  name = "Anasayfa"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/"
 [[menu.main]]
