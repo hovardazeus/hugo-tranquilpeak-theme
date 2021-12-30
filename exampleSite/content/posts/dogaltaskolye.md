@@ -13,7 +13,7 @@ keywords:
 - doğal taş kolye
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: /image: "img/post-2.jpg"
+thumbnailImage: /image: "/img/post-2.jpg"
 coverImage: /image: "post-2.jpg"
 metaAlignment: center
 ---
