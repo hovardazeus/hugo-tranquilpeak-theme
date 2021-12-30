@@ -13,8 +13,8 @@ keywords:
 - doğal taş kolye
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: //https://wwwdogaltaslardukk54b5b.zapwp.com/q:ultra/retina:false/webp:true/w:441/url:https://www.dogaltaslardukkani.com/wp-content/uploads/2021/10/ametist-tasi-su-sise-modeli-441x441.png
-coverImage: //https://wwwdogaltaslardukk54b5b.zapwp.com/q:ultra/retina:false/webp:true/w:441/url:https://www.dogaltaslardukkani.com/wp-content/uploads/2021/10/ametist-tasi-su-sise-modeli-441x441.png
+thumbnailImage: /image: "img/post-2.jpg
+coverImage: /image: "img/post-2.jpg
 metaAlignment: center
 ---
 Şifalı bir güç kaynağı taşıyan ve bizler için her zaman aktif bir şekilde çalışan doğal taşlar, artık hayatımızın vazgeçilmez parçası oldu. 
