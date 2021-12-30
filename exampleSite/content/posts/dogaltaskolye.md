@@ -14,7 +14,7 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: /image: "img/post-2.jpg"
-coverImage: /image: "img/post-2.jpg"
+coverImage: /image: "post-2.jpg"
 metaAlignment: center
 ---
 Şifalı bir güç kaynağı taşıyan ve bizler için her zaman aktif bir şekilde çalışan doğal taşlar, artık hayatımızın vazgeçilmez parçası oldu. 
