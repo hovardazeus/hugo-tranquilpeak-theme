@@ -13,8 +13,6 @@ keywords:
 - doğal taş kolye
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: /image: "images/post-2.jpg"
-coverImage: /image: "images/post-2.jpg"
 metaAlignment: center
 ---
 Şifalı bir güç kaynağı taşıyan ve bizler için her zaman aktif bir şekilde çalışan doğal taşlar, artık hayatımızın vazgeçilmez parçası oldu. 
